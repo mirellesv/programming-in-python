@@ -1,2 +1,3 @@
-name = input('What is your name?')
-print('Hi, ', name, "! It's nice to meet you!")
+print('===== DESAFIO 01 =====')
+nome = input('Qual é o seu nome?')
+print('Oi', nome, "! Prazer em te conhecer!")
