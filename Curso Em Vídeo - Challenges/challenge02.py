@@ -1,0 +1,6 @@
+print('===== CHALLENGE 02 =====')
+print('Please, enter your date of birth.')
+day = input('Day: ')
+month = input('Month: ')
+year = input('Year: ')
+print('You were born on ', month, day, 'of', year, '. Correct?')
