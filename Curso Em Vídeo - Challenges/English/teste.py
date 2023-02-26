@@ -1,1 +1,0 @@
-resp = input('Digite algo: ')
